@@ -37,6 +37,11 @@ to see a few examples. While it's easiest to open the files locally while
 testing, these may also be served using your choice of webserver
 (Apache, NGINX).
 
+To run the unit tests, make sure you're still in the project's root directory
+and::
+
+    PYTHONPATH=. python tests/test_streamer.py
+
 License
 =======
 
