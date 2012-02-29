@@ -3,7 +3,7 @@ txWS Example Project
 ====================
 
 :Author: Gregory Taylor
-:Inspired By: zed's gist_
+:Based on: zed's gist_
 
 This repository serves as a quick foundation to build WebSockets-driven
 projects using txWS_. A basic structure has been provided for you to build on.
