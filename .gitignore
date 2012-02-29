@@ -1,0 +1,7 @@
+*.pid
+*.pyc
+.idea
+.DS_Store
+*~
+*.tmp
+*.swp
